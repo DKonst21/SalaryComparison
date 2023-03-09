@@ -42,10 +42,11 @@ SUPERJOB_API_KEY=<SUPERJOB_API_KEY>
 ```bash
 python main.py
 ```
+
 Пример работы скрипта:
 
-![image](https://1drv.ms/u/s!Akpf3SbmU0RIhiEvQDV9GPvWocrK?e=HEK0x5)
-![image](https://1drv.ms/u/s!Akpf3SbmU0RIhiIwOo7HyJ848U8l?e=6ZPl5K)
+![img.png](img.png)
+![img_1.png](img_1.png)
 
 ### Вспомогательный скрипт `hh_vacancies.py`
 Выводит информацию в табличной форме о средней зарплате и количестве просмотренных вакансий в разрезе указанных языков программирования на HeadHunter (г.Москва).
