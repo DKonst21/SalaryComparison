@@ -47,6 +47,7 @@ python main.py
 
 ![image](https://github.com/DKonst21/SalaryComparison/raw/images/hh.png)
 ![image](https://github.com/DKonst21/SalaryComparison/raw/images/sj.png)
+![image](images/hh.png)
 
 ### Вспомогательный скрипт `hh_vacancies.py`
 Выводит информацию в табличной форме о средней зарплате и количестве просмотренных вакансий в разрезе указанных языков программирования на HeadHunter (г.Москва).
