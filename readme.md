@@ -45,8 +45,7 @@ python main.py
 
 Пример работы скрипта:
 
-![image](https://github.com/DKonst21/SalaryComparison/raw/images/hh.png)
-![image](https://github.com/DKonst21/SalaryComparison/raw/images/sj.png)
+![image](images/sj.png)
 ![image](images/hh.png)
 
 ### Вспомогательный скрипт `hh_vacancies.py`
