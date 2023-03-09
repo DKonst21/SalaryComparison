@@ -44,8 +44,8 @@ python main.py
 ```
 Пример работы скрипта:
 
-![hh_vacancies.PNG](hh_vacancies.PNG)
-![sj_vacancies.PNG](sj_vacancies.PNG)
+![hh_vacancies.PNG](https://1drv.ms/u/s!Akpf3SbmU0RIhiEvQDV9GPvWocrK?e=HEK0x5)
+![sj_vacancies.PNG](https://1drv.ms/u/s!Akpf3SbmU0RIhiIwOo7HyJ848U8l?e=6ZPl5K)
 
 ### Вспомогательный скрипт `hh_vacancies.py`
 Выводит информацию в табличной форме о средней зарплате и количестве просмотренных вакансий в разрезе указанных языков программирования на HeadHunter (г.Москва).
