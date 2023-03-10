@@ -29,5 +29,5 @@ if __name__ == "__main__":
     sj_vacancies = collect_superjob_vacancies(languages, superjob_key)
     sj_statistic = get_vacancies_statistic(sj_vacancies, predict_rub_salary_for_superJob)
     print()
-    draw_table(hh_statistic, "HeadHunter Moscow")
-    draw_table(sj_statistic, "SuperJob Moscow")
+    print(draw_table(hh_statistic, "HeadHunter Moscow"))
+    print(draw_table(sj_statistic, "SuperJob Moscow"))
